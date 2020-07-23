@@ -1,8 +1,15 @@
-### Hi there 👋
+# Hi there 👋 This is sewon ko's profile
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdream365)](https://hits.seeyoufarm.com)
+
+## Find me 🌎
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://dream365.github.io/)](https://dream365.github.io/)
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sewon-ko-825615157/)](https://www.linkedin.com/in/sewon-ko-825615157/)
+ 
 <!--
 **dream365/dream365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
