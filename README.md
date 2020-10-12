@@ -8,9 +8,9 @@
 [![Sewon Ko's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream365&hide=javascript,html,css&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me 🌎
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://dream365.github.io/)](https://dream365.github.io/)
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&link=https://dream365.github.io/)](https://dream365.github.io/)
  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sewon-ko-825615157/)](https://www.linkedin.com/in/sewon-ko-825615157/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sewon-ko-825615157/)](https://www.linkedin.com/in/sewon-ko-825615157/)
  
 <!--
 **dream365/dream365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
