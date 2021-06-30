@@ -5,7 +5,7 @@
 ## Github
 [![Sewon Ko's github stats](https://github-readme-stats.vercel.app/api?username=dream365&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sewon Ko's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream365&hide=javascript,html,css,scss&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sewon Ko's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream365&hide=javascript,html,css,scss,makefile,shell&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me 🌎
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&link=https://dream365.github.io/)](https://dream365.github.io/)
